@@ -1,0 +1,2 @@
+1|Tələbə1|Soyad1
+2|Tələbə2|Soyad2

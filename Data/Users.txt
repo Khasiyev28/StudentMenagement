@@ -1,0 +1,6 @@
+samir|samir123|samir@gmail.com
+admin|admin
+rasim|12345678|rasim@outlook.com
+Mahir|12345678|mahirkhasiyev28@gmail.com
+Admin|12345678|mahirkhasiyev28@gmail.com
+Mahir|12345678|mahirkhasiyev28@gmail.com
